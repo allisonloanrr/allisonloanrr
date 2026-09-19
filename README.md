@@ -1,4 +1,4 @@
-# Olá! Eu sou Allison Loan 👋
+# Opa! Sou o Allison Loan 👋
 
 Desenvolvedor Full Stack em formação, criando projetos e aprendendo todos os dias.
 
