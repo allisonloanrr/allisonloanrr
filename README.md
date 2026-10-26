@@ -46,18 +46,5 @@ Me tornar um **Backend Developer** sólido, com domínio de Java e Spring Boot, 
 
 Estou constantemente estudando, praticando e construindo novos projetos para evoluir minhas habilidades.
 
----
-
-## 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=allisonloanrr&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonloanrr&layout=compact&hide_border=true" />
-</p>
-
----
 
 ### 🚀 Aprendendo. Construindo. Evoluindo.
