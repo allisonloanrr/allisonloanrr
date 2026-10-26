@@ -51,11 +51,11 @@ Estou constantemente estudando, praticando e construindo novos projetos para evo
 ## 📊 GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allisonloanrr&show_icons=true&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonloanrr&layout=compact&hide_border=true" />
 </p>
 
 ---
